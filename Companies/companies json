@@ -1,0 +1,17 @@
+{
+  "keywords": ["software engineer", "data engineer", "backend"],
+  "companies": [
+    {
+      "name": "Stripe",
+      "careers_url": "https://stripe.com/jobs"
+    },
+    {
+      "name": "Linear",
+      "careers_url": "https://linear.app/careers"
+    },
+    {
+      "name": "Vercel",
+      "careers_url": "https://vercel.com/careers"
+    }
+  ]
+}
